@@ -4,6 +4,14 @@ This repository contains the source code for the attacks and defenses used in ou
 
 This work has been published in **Transactions on Machine Learning Research (TMLR), 2026**. See the [Citation](#citation) section below for details.
 
+## Requirements
+
+This code was tested with **Python 3.10**. Install the required dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Table of Contents
 
 - [Running Experiments on CIFAR-10](#running-experiments-on-cifar-10)
