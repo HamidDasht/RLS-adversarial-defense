@@ -299,11 +299,11 @@ To cite our paper, you can use the following BibTeX entry:
 
 ```bibtex
 @article{
-rls2026,
+dashtbani2026random,
 title={Random Logit Scaling: Defending Deep Neural Networks Against Black-Box Score-Based Adversarial Example Attacks},
 author={Hamid Dashtbani and Mehdi Dousti Gandomani and AmirMahdi Sadeghzadeh},
 journal={Transactions on Machine Learning Research},
+issn={2835-8856},
 year={2026},
-url={https://openreview.net/forum?id=CXafPv4aAG}
-}
+url={https://openreview.net/forum?id=CXafPv4aAG},
 ```
