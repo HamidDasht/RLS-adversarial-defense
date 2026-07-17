@@ -3,9 +3,9 @@
 [![TMLR](https://img.shields.io/badge/TMLR-2026-8A2BE2)](https://openreview.net/forum?id=CXafPv4aAG)
 [![arXiv](https://img.shields.io/badge/arXiv-2607.14921-b31b1b.svg)](https://arxiv.org/abs/2607.14921)
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CIFAR--10](https://img.shields.io/badge/Dataset-CIFAR--10-informational)](#running-experiments-on-cifar-10)
-[![ImageNet](https://img.shields.io/badge/Dataset-ImageNet-informational)](#running-experiments-on-imagenet)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![CIFAR--10](https://img.shields.io/badge/Dataset-CIFAR--10-orange)](#running-experiments-on-cifar-10)
+[![ImageNet](https://img.shields.io/badge/Dataset-ImageNet-yellow)](#running-experiments-on-imagenet)
 
 This repository contains the source code for the attacks and defenses used in our experiments. For the attack implementations, we used [BlackboxBench](https://github.com/SCLBD/BlackboxBench) and modified its source code to meet our needs, specifically, we implemented our own defense, along with the state-of-the-art randomized defenses used for comparison, since BlackboxBench only contains code for attacks and not defenses.
 
